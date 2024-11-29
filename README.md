@@ -1,6 +1,7 @@
 # Introduction-to-Topic-Modeling
 
-topic models uncover hidden structure in a collection of texts. we thrn evaluate the model to determine how well the model performs on unseen data, ensuring it generalizes beyond the training set.
+Topic models uncover hidden structure in a collection of texts. 
+we then evaluate the model to determine how well the model performs on unseen data, ensuring it generalizes beyond the training set.
 
 Evaluation Methods:
 
